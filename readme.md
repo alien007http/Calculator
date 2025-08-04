@@ -54,6 +54,4 @@ That's it! No additional setup required.
 ## 📃 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
-Agar aap chahein toh is README ko GitHub repository ke liye bhi customize kar sakte hain. Screenshot add karne ke liye `screenshot.png` file ko project folder mein daalein aur uska naam README mein specify karein. Let me know if you want a dark mode version of the calculator or advanced features like scientific mode.
 ```
