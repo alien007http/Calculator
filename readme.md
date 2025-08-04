@@ -33,7 +33,7 @@ Calculator/
 
 1. Clone the repository or download the source code:
    ```bash
-   git clone https://github.com/your-username/modern-calculator.git
+   git clone https://github.com/alien007http/Calculator.git
 ````
 
 2. Open `index.html` in your preferred browser.
