@@ -4,7 +4,7 @@ A clean, modern, and responsive calculator built with **HTML**, **CSS**, and **J
 
 ## Deployment Link
 
-![Calculator](https://alien007http.github.io/Calculator/)
+[Open Calculator](https://alien007http.github.io/Calculator/)
 
 ## 🚀 Features
 
