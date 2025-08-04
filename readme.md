@@ -32,7 +32,7 @@ Calculator/
 ## 💻 How to Use
 
 1. Clone the repository or download the source code:
-   ```bash
+```bash
    git clone https://github.com/alien007http/Calculator.git
 ````
 
