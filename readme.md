@@ -52,6 +52,4 @@ That's it! No additional setup required.
 | `Escape`       | Clear all         |
 
 ## 📃 License
-
 This project is open-source and available under the [MIT License](LICENSE).
-```
